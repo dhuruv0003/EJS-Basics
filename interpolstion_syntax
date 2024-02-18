@@ -1,0 +1,12 @@
+Interpolations syntax is used to embed the dynamic HTML text in the EJS file
+
+It makes the text inside HTML tags interactive or dynamic
+
+It is similar to template string literals ` {} `
+
+Eg:-1. <%= %> Outpus the value into the template , check in home.ejs
+    2. for conditional statements
+
+        <% if (condition) { %>
+        block of code
+        <% } %>

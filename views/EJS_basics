@@ -1,0 +1,7 @@
+1. EJS (Embedded Javascript templates)
+
+2. EJS is a simple templating language that lets you generate Html markup with plain javascript 
+basically a layout or blueprint that defines how the pages qppears 
+
+3. View Engines:- are useful for rendering web pages. There are many view engines available in the market like Mustache, Handlebars, EJS, etc but the most popular among them is EJS which simply stands for Embedded JavaScript.
+    app.set("view engine","ejs)
